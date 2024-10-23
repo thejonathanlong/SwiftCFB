@@ -1,0 +1,26 @@
+[
+    {
+        "playerId": 123,
+        "season": 2023,
+        "gamesPlayed": 12,
+        "passingYards": 3500,
+        "rushingYards": 200,
+        "receivingYards": 0,
+        "touchdowns": 30,
+        "tackles": 0,
+        "interceptions": 0,
+        "fumbles": 2
+    },
+    {
+        "playerId": 456,
+        "season": 2023,
+        "gamesPlayed": 10,
+        "passingYards": 0,
+        "rushingYards": 1100,
+        "receivingYards": 150,
+        "touchdowns": 15,
+        "tackles": 0,
+        "interceptions": 0,
+        "fumbles": 1
+    }
+]

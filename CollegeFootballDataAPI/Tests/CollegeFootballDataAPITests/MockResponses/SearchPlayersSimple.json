@@ -1,0 +1,30 @@
+[
+    {
+        "id": 123,
+        "firstName": "John",
+        "lastName": "Doe",
+        "team": "Team A",
+        "position": "QB",
+        "year": 3,
+        "height": 190,
+        "weight": 90,
+        "hometown": "Some City",
+        "state": "TX",
+        "country": "USA",
+        "highSchool": "Local High"
+    },
+    {
+        "id": 456,
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "team": "Team B",
+        "position": "RB",
+        "year": 2,
+        "height": 175,
+        "weight": 80,
+        "hometown": "Another City",
+        "state": "CA",
+        "country": "USA",
+        "highSchool": "Another High"
+    }
+]
